@@ -1,0 +1,1278 @@
+Processing file ../../JoseMarcos/lwb/k_branch_n.01.ksp
+Satisfiable 0.000004 0.000000 24
+0.00 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.02.ksp
+Satisfiable 0.000000 0.000000 10
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.03.ksp
+Satisfiable 0.000000 0.000000 12
+0.00 0.06 0.07 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.04.ksp
+Unsatisfiable 0.068887 0.000000 543651
+0.28 0.09 0.38 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.05.ksp
+Unsatisfiable 0.028163 0.000000 162058
+0.12 0.05 0.17 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.06.ksp
+Satisfiable 0.000000 0.000000 20
+0.00 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.07.ksp
+Unsatisfiable 0.000000 0.000000 16
+0.01 0.02 0.07 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_n.08.ksp
+Command exited with non-zero status 124
+4.20 0.75 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.01.ksp
+Unsatisfiable 0.000023 0.000000 89
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.02.ksp
+Unsatisfiable 0.000868 0.000000 6004
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.03.ksp
+Unsatisfiable 0.000077 0.000000 648
+0.00 0.01 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.04.ksp
+Unsatisfiable 0.000241 0.000000 2989
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.05.ksp
+Unsatisfiable 0.035314 0.000000 323094
+0.14 0.06 0.21 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.06.ksp
+Satisfiable 0.000000 0.000000 19
+0.01 0.01 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.07.ksp
+Unsatisfiable 0.315812 0.000000 2836458
+1.18 0.56 1.75 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.08.ksp
+Unsatisfiable 0.000000 0.000000 13
+0.01 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_branch_p.09.ksp
+Command exited with non-zero status 124
+3.96 1.00 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_branch_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.01.ksp
+Satisfiable 0.000004 0.000000 7
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.02.ksp
+Satisfiable 0.000045 0.000000 148
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.03.ksp
+Satisfiable 0.000457 0.000000 1596
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.04.ksp
+Satisfiable 0.006635 0.000000 31424
+0.02 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.05.ksp
+Satisfiable 0.154102 0.000000 488730
+0.24 0.24 0.49 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.06.ksp
+Satisfiable 0.873849 0.000000 2183086
+1.23 1.47 2.71 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_n.07.ksp
+Command exited with non-zero status 124
+2.25 2.72 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.08.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.01.ksp
+Unsatisfiable 0.000010 0.000000 38
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.02.ksp
+Unsatisfiable 0.000146 0.000000 374
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.03.ksp
+Unsatisfiable 0.001366 0.000000 4210
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.04.ksp
+Unsatisfiable 0.010685 0.000000 40330
+0.02 0.01 0.04 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.05.ksp
+Unsatisfiable 0.113998 0.000000 313366
+0.18 0.18 0.36 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.06.ksp
+Satisfiable 0.000000 0.000000 1
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.07.ksp
+Satisfiable 0.000224 0.000000 532
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.08.ksp
+Satisfiable 0.000408 0.000000 2568
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.09.ksp
+Satisfiable 0.000941 0.000000 5883
+0.00 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.10.ksp
+Satisfiable 0.545330 0.000000 1447536
+0.85 0.89 1.77 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.11.ksp
+Satisfiable 0.590353 0.000000 1662010
+0.96 0.99 1.97 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.12.ksp
+Satisfiable 0.000019 0.000000 59
+0.01 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.13.ksp
+Satisfiable 0.000017 0.000000 123
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_d4_p.14.ksp
+Command exited with non-zero status 124
+2.31 2.66 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_d4_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_dum_n.01.ksp
+Satisfiable 0.000004 0.000000 9
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.02.ksp
+Satisfiable 0.000014 0.000000 11
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.03.ksp
+Satisfiable 0.000003 0.000000 11
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.04.ksp
+Satisfiable 0.000007 0.000000 9
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.05.ksp
+Satisfiable 0.000004 0.000000 12
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.06.ksp
+Satisfiable 0.000008 0.000000 19
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.07.ksp
+Satisfiable 0.000020 0.000000 48
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.08.ksp
+Satisfiable 0.000009 0.000000 39
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.09.ksp
+Satisfiable 0.000012 0.000000 27
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.10.ksp
+Unsatisfiable 0.109539 0.000000 427675
+0.20 0.20 0.40 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.11.ksp
+Satisfiable 0.000030 0.000000 55
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.12.ksp
+Satisfiable 0.000170 0.000000 288
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.13.ksp
+Satisfiable 0.001124 0.000000 1439
+0.01 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.14.ksp
+Satisfiable 0.005519 0.000000 7908
+0.02 0.01 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.15.ksp
+Satisfiable 0.025957 0.000000 43212
+0.05 0.04 0.09 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.16.ksp
+Satisfiable 0.011375 0.000000 43214
+0.02 0.02 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.17.ksp
+Satisfiable 0.000002 0.000000 25
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.18.ksp
+Satisfiable 0.000005 0.000000 28
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.19.ksp
+Satisfiable 0.000008 0.000000 31
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.20.ksp
+Satisfiable 0.000011 0.000000 34
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_n.21.ksp
+Satisfiable 0.000014 0.000000 37
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.01.ksp
+Unsatisfiable 0.000098 0.000000 467
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.02.ksp
+Unsatisfiable 0.000107 0.000000 610
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.03.ksp
+Unsatisfiable 0.000162 0.000000 610
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.04.ksp
+Unsatisfiable 0.000155 0.000000 676
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.05.ksp
+Satisfiable 0.000000 0.000000 1
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.06.ksp
+Satisfiable 0.000015 0.000000 59
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.07.ksp
+Unsatisfiable 0.003500 0.000000 14102
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.08.ksp
+Unsatisfiable 0.017814 0.000000 72081
+0.04 0.02 0.06 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.09.ksp
+Unsatisfiable 0.027743 0.000000 94497
+0.05 0.03 0.09 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.10.ksp
+Satisfiable 0.015072 0.000000 42941
+0.02 0.03 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.11.ksp
+Satisfiable 0.014441 0.000000 43773
+0.02 0.02 0.04 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.12.ksp
+Unsatisfiable 1.008716 0.000000 2044485
+1.44 1.61 3.06 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.13.ksp
+Satisfiable 0.061697 0.000000 112773
+0.09 0.10 0.20 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.14.ksp
+Satisfiable 0.000053 0.000000 128
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.15.ksp
+Satisfiable 0.000033 0.000000 127
+0.00 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.16.ksp
+Satisfiable 0.000131 0.000000 415
+0.00 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_dum_p.17.ksp
+Command exited with non-zero status 124
+2.21 2.78 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_dum_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_dum_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_dum_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_dum_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_grz_n.01.ksp
+Satisfiable 0.000000 0.000000 2
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.02.ksp
+Satisfiable 0.000000 0.000000 3
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.03.ksp
+Satisfiable 0.000000 0.000000 4
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.04.ksp
+Satisfiable 0.000000 0.000000 5
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.05.ksp
+Satisfiable 0.000000 0.000000 6
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.06.ksp
+Satisfiable 0.000000 0.000000 7
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.07.ksp
+Satisfiable 0.000000 0.000000 8
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.08.ksp
+Satisfiable 0.000000 0.000000 9
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.09.ksp
+Satisfiable 0.000000 0.000000 10
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.10.ksp
+Satisfiable 0.000000 0.000000 11
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.11.ksp
+Satisfiable 0.000000 0.000000 12
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.12.ksp
+Satisfiable 0.000000 0.000000 13
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.13.ksp
+Satisfiable 0.000000 0.000000 14
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.14.ksp
+Satisfiable 0.000000 0.000000 14
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.15.ksp
+Satisfiable 0.000000 0.000000 15
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.16.ksp
+Satisfiable 0.000000 0.000000 16
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.17.ksp
+Satisfiable 0.000000 0.000000 17
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.18.ksp
+Satisfiable 0.000000 0.000000 19
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.19.ksp
+Satisfiable 0.000000 0.000000 20
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.20.ksp
+Satisfiable 0.000000 0.000000 21
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_n.21.ksp
+Satisfiable 0.000000 0.000000 22
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.01.ksp
+Satisfiable 0.000011 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.02.ksp
+Satisfiable 0.000011 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.03.ksp
+Satisfiable 0.000007 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.04.ksp
+Satisfiable 0.000012 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.05.ksp
+Satisfiable 0.000009 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.06.ksp
+Satisfiable 0.000005 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.07.ksp
+Satisfiable 0.000010 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.08.ksp
+Satisfiable 0.000005 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.09.ksp
+Satisfiable 0.000004 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.10.ksp
+Satisfiable 0.000012 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.11.ksp
+Satisfiable 0.000008 0.000000 75
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.12.ksp
+Satisfiable 0.000012 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.13.ksp
+Satisfiable 0.000009 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.14.ksp
+Satisfiable 0.000021 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.15.ksp
+Satisfiable 0.000005 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.16.ksp
+Satisfiable 0.000005 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.17.ksp
+Satisfiable 0.000013 0.000000 75
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.18.ksp
+Satisfiable 0.000006 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.19.ksp
+Satisfiable 0.000014 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.20.ksp
+Satisfiable 0.000009 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_grz_p.21.ksp
+Satisfiable 0.000006 0.000000 75
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.01.ksp
+Satisfiable 0.000000 0.000000 2
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.02.ksp
+Satisfiable 0.000001 0.000000 6
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.03.ksp
+Satisfiable 0.000020 0.000000 65
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.04.ksp
+Satisfiable 0.000544 0.000000 796
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.05.ksp
+Satisfiable 0.010832 0.000000 12324
+0.01 0.01 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.06.ksp
+Satisfiable 0.345669 0.000000 196656
+0.24 0.58 0.82 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_n.07.ksp
+Command exited with non-zero status 124
+1.42 3.58 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.08.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_lin_p.01.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.02.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.03.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.04.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.05.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.06.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.07.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.08.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.09.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.10.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.11.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.12.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.13.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.14.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.15.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.16.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.17.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.18.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.19.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.20.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_lin_p.21.ksp
+Unsatisfiable 0.000000 0.000000 0
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.01.ksp
+Satisfiable 0.000001 0.000000 16
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.02.ksp
+Satisfiable 0.000002 0.000000 46
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.03.ksp
+Satisfiable 0.000015 0.000000 208
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.04.ksp
+Satisfiable 0.000027 0.000000 520
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.05.ksp
+Satisfiable 0.000036 0.000000 1013
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.06.ksp
+Satisfiable 0.000088 0.000000 1745
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.07.ksp
+Satisfiable 0.000187 0.000000 4086
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.08.ksp
+Satisfiable 0.000404 0.000000 8392
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.09.ksp
+Satisfiable 0.000656 0.000000 15077
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.10.ksp
+Unsatisfiable 0.006855 0.000000 143664
+0.03 0.02 0.06 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.11.ksp
+Satisfiable 0.001963 0.000000 40348
+0.02 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.12.ksp
+Unsatisfiable 0.204443 0.000000 2127874
+0.92 0.33 1.26 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.13.ksp
+Unsatisfiable 0.002512 0.000000 63991
+0.04 0.00 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.14.ksp
+Unsatisfiable 0.000010 0.000000 65
+0.02 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_path_n.15.ksp
+Command exited with non-zero status 124
+3.56 1.43 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.01.ksp
+Unsatisfiable 0.000001 0.000000 1
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_p.02.ksp
+Unsatisfiable 0.000003 0.000000 38
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_p.03.ksp
+Unsatisfiable 0.000110 0.000000 1592
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_path_p.04.ksp
+Unsatisfiable 0.005947 0.000000 74274
+0.02 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_path_p.05.ksp
+Unsatisfiable 0.115905 0.000000 1359930
+0.39 0.18 0.58 seconds
+Processing file ../../JoseMarcos/lwb/k_path_p.06.ksp
+Command exited with non-zero status 124
+3.17 1.82 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.07.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.08.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_path_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.01.ksp
+Satisfiable 0.000000 0.000000 2
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.02.ksp
+Satisfiable 0.000001 0.000000 7
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.03.ksp
+Satisfiable 0.000001 0.000000 23
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.04.ksp
+Unsatisfiable 0.000003 0.000000 22592
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.05.ksp
+Unsatisfiable 0.000001 0.000000 8132
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.06.ksp
+Unsatisfiable 0.000001 0.000000 527616
+0.06 0.00 0.08 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_n.07.ksp
+Command exited with non-zero status 124
+4.98 0.00 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.08.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.01.ksp
+Unsatisfiable 0.000001 0.000000 2
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.02.ksp
+Unsatisfiable 0.000004 0.000000 176
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.03.ksp
+Unsatisfiable 0.000007 0.000000 688
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.04.ksp
+Satisfiable 0.000002 0.000000 287493
+0.04 0.00 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.05.ksp
+Unsatisfiable 0.000001 0.000000 3732
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.06.ksp
+Unsatisfiable 0.000000 0.000000 63
+0.00 0.00 0.11 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.07.ksp
+Unsatisfiable 0.000000 0.000000 35252
+0.02 0.00 0.04 seconds
+Processing file ../../JoseMarcos/lwb/k_ph_p.08.ksp
+Command exited with non-zero status 124
+4.97 0.00 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.09.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.10.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.11.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.12.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_ph_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.01.ksp
+Satisfiable 0.000003 0.000000 23
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.02.ksp
+Satisfiable 0.000001 0.000000 48
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.03.ksp
+Unsatisfiable 0.000005 0.000000 150
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.04.ksp
+Unsatisfiable 0.000006 0.000000 774
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.05.ksp
+Satisfiable 0.000028 0.000000 124387
+0.02 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.06.ksp
+Satisfiable 0.000045 0.000000 30854
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.07.ksp
+Satisfiable 0.000100 0.000000 309
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.08.ksp
+Satisfiable 0.000058 0.000000 67455
+0.02 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.09.ksp
+Satisfiable 0.000096 0.000000 90512
+0.02 0.00 0.12 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.10.ksp
+Unsatisfiable 0.000014 0.000000 65568
+0.02 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.11.ksp
+Unsatisfiable 0.000012 0.000000 1056804
+0.12 0.00 0.14 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.12.ksp
+Unsatisfiable 0.000010 0.000000 16785447
+3.07 0.00 3.07 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_n.13.ksp
+Command exited with non-zero status 124
+4.97 0.00 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.01.ksp
+Unsatisfiable 0.000011 0.000000 25
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.02.ksp
+Unsatisfiable 0.000009 0.000000 399
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.03.ksp
+Unsatisfiable 0.000019 0.000000 301
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.04.ksp
+Unsatisfiable 0.000007 0.000000 25
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.05.ksp
+Unsatisfiable 0.000012 0.000000 101047
+0.02 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.06.ksp
+Satisfiable 0.000038 0.000000 54745
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.07.ksp
+Satisfiable 0.000048 0.000000 135433
+0.01 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.08.ksp
+Satisfiable 0.000084 0.000000 84678
+0.02 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.09.ksp
+Satisfiable 0.000082 0.000000 86304
+0.02 0.00 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.10.ksp
+Unsatisfiable 0.000032 0.000000 32801
+0.04 0.00 0.14 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.11.ksp
+Unsatisfiable 0.000022 0.000000 270371
+0.11 0.00 0.13 seconds
+Processing file ../../JoseMarcos/lwb/k_poly_p.12.ksp
+Command exited with non-zero status 124
+5.00 0.00 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.13.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.14.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.15.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.16.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.17.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.18.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.19.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_poly_p.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_t4p_n.01.ksp
+Satisfiable 0.000014 0.000000 51
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.02.ksp
+Satisfiable 0.000265 0.000000 1079
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.03.ksp
+Satisfiable 0.000621 0.000000 1563
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.04.ksp
+Satisfiable 0.000106 0.000000 367
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.05.ksp
+Satisfiable 0.000188 0.000000 675
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.06.ksp
+Satisfiable 0.000748 0.000000 2013
+0.00 0.00 0.00 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.07.ksp
+Satisfiable 0.002913 0.000000 7023
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.08.ksp
+Satisfiable 0.007384 0.000000 26713
+0.01 0.01 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.09.ksp
+Satisfiable 0.044468 0.000000 105113
+0.05 0.09 0.14 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.10.ksp
+Satisfiable 0.290591 0.000000 417234
+0.42 0.50 0.93 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.11.ksp
+Satisfiable 0.005414 0.000000 7326
+0.02 0.00 0.03 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.12.ksp
+Satisfiable 0.005209 0.000000 7698
+0.02 0.01 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.13.ksp
+Satisfiable 0.004897 0.000000 8070
+0.03 0.00 0.09 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.14.ksp
+Satisfiable 0.005282 0.000000 8442
+0.03 0.00 2.70 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.15.ksp
+Satisfiable 0.005673 0.000000 8814
+0.02 0.02 0.12 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.16.ksp
+Satisfiable 0.005408 0.000000 7698
+0.04 0.00 0.08 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.17.ksp
+Satisfiable 0.002199 0.000000 8070
+0.02 0.00 0.08 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.18.ksp
+Satisfiable 0.007446 0.000000 21112
+0.02 0.00 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_n.19.ksp
+Command exited with non-zero status 124
+2.33 2.65 5.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_t4p_n.20.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_t4p_n.21.ksp
+Command exited with non-zero status 124
+0.00 0.00 0.00 seconds
+Unable
+Processing file ../../JoseMarcos/lwb/k_t4p_p.01.ksp
+Satisfiable 0.000042 0.000000 84
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.02.ksp
+Satisfiable 0.000818 0.000000 1184
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.03.ksp
+Satisfiable 0.000902 0.000000 1647
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.04.ksp
+Satisfiable 0.001081 0.000000 1926
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.05.ksp
+Satisfiable 0.001214 0.000000 2253
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.06.ksp
+Unsatisfiable 0.015416 0.000000 29744
+0.02 0.04 0.06 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.07.ksp
+Satisfiable 0.000250 0.000000 463
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.08.ksp
+Satisfiable 0.000225 0.000000 390
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.09.ksp
+Satisfiable 0.000428 0.000000 675
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.10.ksp
+Satisfiable 0.000777 0.000000 1140
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.11.ksp
+Satisfiable 0.001345 0.000000 2013
+0.00 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.12.ksp
+Satisfiable 0.001706 0.000000 3702
+0.01 0.00 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.13.ksp
+Satisfiable 0.002141 0.000000 7023
+0.00 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.14.ksp
+Satisfiable 0.004052 0.000000 13606
+0.01 0.00 0.01 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.15.ksp
+Satisfiable 0.007286 0.000000 26713
+0.00 0.02 0.02 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.16.ksp
+Satisfiable 0.014935 0.000000 52864
+0.02 0.02 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.17.ksp
+Satisfiable 0.061693 0.000000 105113
+0.10 0.10 0.24 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.18.ksp
+Satisfiable 0.120542 0.000000 209765
+0.23 0.17 0.41 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.19.ksp
+Satisfiable 0.193780 0.000000 417234
+0.22 0.37 0.60 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.20.ksp
+Satisfiable 0.005509 0.000000 10426
+0.02 0.01 0.05 seconds
+Processing file ../../JoseMarcos/lwb/k_t4p_p.21.ksp
+Satisfiable 0.002200 0.000000 10612
+0.01 0.00 0.04 seconds

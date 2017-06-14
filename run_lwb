@@ -1,0 +1,37 @@
+# !/bin/bash
+
+# rm ../benchmarks/lwb/*.log
+rm x.log
+# for file in ../benchmarks/lwb/*.ksp;
+LAST="qwertyuiop"
+for file in ../../JoseMarcos/lwb/*.ksp;
+# for file in ../../JoseMarcos/lwb/provable/*.in;
+# for file in ../../JoseMarcos/lwb/non-provable/*.k;
+# for file in ../../JoseMarcos/simple/*.k;
+# for file in ../../JoseMarcos/tptp/*.k;
+do
+    echo "Processing file $file" 
+    exec 5>&1
+    echo "Processing file $file" &>> x.log
+
+    if echo "$file" | grep -q "$LAST"; then
+        # echo "Unable" &>> x.log
+        echo "Command exited with non-zero status 124" &>> x.log
+        echo "0.00 0.00 0.00 seconds" &>> x.log
+        echo "Unable" &>> x.log
+    else
+        # /usr/bin/timeout 5s ./ksp -i $file &>> x.log
+        /usr/bin/time -f "%U %S %e seconds" /usr/bin/timeout 5s ./ksp -i $file &>> x.log
+        # /usr/bin/timeout 5s ./ksp -i $file &>> x.log
+        # /usr/bin/time -f "%U %S %e seconds" /usr/bin/timeout 5s valgrind -v --tool=memcheck ./ksp -i $file &>> x.log
+        # /usr/bin/timeout 10s ./ksp -i $file &>> x.log
+        # /usr/bin/timeout 5s valgrind -v --tool=memcheck ./ksp -i $file &>> x.log
+        # /usr/bin/timeout 5s valgrind -v --tool=memcheck ./ksp -i $file &>> x.log 2>&1
+        if [ $? -eq 124 ]; then echo "Unable" &>> x.log; LAST=${file::-7}; fi
+        if [ $? -eq 139 ]; then echo "Fail" &>> x.log; fi
+    fi
+    exec 1>&5 5>&- 
+done
+
+#Recovers stdout from file descriptor 5
+# exec 1>&5 5>&-  
